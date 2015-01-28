@@ -9,7 +9,7 @@ Integrates HockeyApp SDK
 If you are using [cordova-cli](https://github.com/apache/cordova-cli), install
 with:
 
-    cordova plugin add https://github.com/kolach/cordova-plugin-hockeyapp.git
+    cordova plugin add https://github.com/AssuredLabor/cordova-plugin-hockeyapp.git
 
 ## Use from Javascript
 
