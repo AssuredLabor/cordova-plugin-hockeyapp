@@ -17,7 +17,7 @@ with:
 
     cordova.hockeyapp.reportCrash(message);
 
-    cordova.hockeyapp.feedback();
+    cordova.hockeyapp.feedback(message);
 
 
 ## Credits
